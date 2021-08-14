@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Nevin Liang',
+  name: 'Nevin',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
