@@ -11,8 +11,8 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
-  imageBackground: false,
+  name: 'Nevin Liang',
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -25,7 +25,7 @@ const CONFIG = {
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C',
+  weatherUnit: 'F',
   weatherLatitude: '37.774929',
   weatherLongitude: '-122.419418',
 
