@@ -23,11 +23,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: '7b489b6382fda199739534f3646bc36d',
+  weatherKey: '67d3effd1db50bceb0fd0e5161e5e448',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F',
-  weatherLatitude: '37.268108',
-  weatherLongitude: '-122.019447',
+  weatherLatitude: '34.068920',
+  weatherLongitude: '-118.445183',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -45,19 +45,19 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/1/',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Reminders',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://www.icloud.com/reminders/',
     },
     {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://www.icloud.com/calendar/',
     },
     {
       id: '5',
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -107,16 +107,16 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'CCLE',
+        link: 'https://ccle.ucla.edu/my/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'MyUCLA',
+        link: 'https://be.my.ucla.edu/studylist.aspx',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Calendly',
+        link: 'https://calendly.com/nevinliang',
       },
     ],
   },
